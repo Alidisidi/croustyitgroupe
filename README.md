@@ -2,4 +2,4 @@
 
 salut voici le premier texte disponible
 TRUC 3
-BOB
+BOB 6
